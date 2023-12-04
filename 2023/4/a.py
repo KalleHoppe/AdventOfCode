@@ -1,8 +1,5 @@
 import sys
 from collections import defaultdict
-import re
-## Credit to jonathanpaulsson, I didnt't have the time, knowledge or brains to pull this off  :)
-## Still need to figure out why it skips the first row with the test input
 
 data = open("2023/4/input.txt").read().strip()
 
